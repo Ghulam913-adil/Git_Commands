@@ -1,38 +1,58 @@
-<h1 align="center">Hi 👋, I'm Mujtaba Adil</h1>
-<h3 align="center">A passionate Data Analyst from Pakistan</h3>
+GitCommands Repository 📚💻
+Welcome to the GitCommands repository! 🚀
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ghulam913-adil&label=Profile%20views&color=0e75b6&style=flat" alt="ghulam913-adil" /> </p>
+About This Repository 📝
+This repository is your one-stop shop for mastering Git commands. Whether you are a beginner looking to get started or an experienced developer seeking to brush up on your Git skills, this repository has something for everyone. Here, you'll find a comprehensive collection of essential Git commands, detailed explanations, and practical examples to help you effectively manage your code and collaborate with others.
 
-- 🔭 I’m currently working on **APIs Integrations with Microsoft PowerBi**
+Table of Contents 📑
+Introduction
+Basic Commands
+Branching and Merging
+Remote Repositories
+Advanced Commands
+Best Practices
+Resources
+Contributing
+License
+Introduction 🌟
+Git is a powerful and popular version control system used by developers worldwide to track changes in their code and collaborate with team members. This section introduces Git's key concepts and how to set up Git on your machine.
 
-- 🌱 I’m currently learning **Big Data Architecture and advance Analytics**
+Basic Commands 🛠️
+git init - Initialize a new Git repository
+git clone - Clone an existing repository
+git status - Check the status of your files
+git add - Stage changes for commit
+git commit - Commit changes to the repository
+git log - View commit history
+Branching and Merging 🌿
+git branch - List, create, or delete branches
+git checkout - Switch branches
+git merge - Merge branches
+git rebase - Reapply commits on top of another base tip
+Remote Repositories 🌐
+git remote - Manage remote connections
+git fetch - Download objects and refs from another repository
+git pull - Fetch and merge changes from a remote repository
+git push - Upload changes to a remote repository
+Advanced Commands ⚙️
+git stash - Stash changes for later use
+git reset - Reset current HEAD to a specified state
+git revert - Create a new commit that undoes a previous commit
+git cherry-pick - Apply changes from a specific commit
+Best Practices 🏆
+Write meaningful commit messages
+Use branches effectively
+Keep your repository clean and organized
+Regularly push changes to the remote repository
+Resources 📚
+Official Git Documentation
+Pro Git Book
+Atlassian Git Tutorials
+Contributing 🤝
+We welcome contributions! If you find a bug or have a suggestion, please open an issue or create a pull request. For major changes, please open an issue first to discuss what you would like to change.
 
-- 👯 I’m looking to collaborate on **Advance Data Analyst Projects**
+License 📄
+This repository is licensed under the MIT License. See the LICENSE file for more details.
 
-- 🤝 I’m looking for help with **Advance Data Analytics**
+Happy Coding! 💻✨
 
-- 📝 I regularly write articles on [Linked In and Indeed](Linked In and Indeed)
-
-- 💬 Ask me about **Data Enthusiast, Insights Analytics, Research Analyst.**
-
-- 📫 How to reach me **ghulam.mujtabadil001@gmail.com**
-
-- 📄 Know about my experiences [https://drive.google.com/file/d/1_q6uL9ibs7DQH6dk4fW36aj_PzDZpy5E/view?usp=sharing](https://drive.google.com/file/d/1_q6uL9ibs7DQH6dk4fW36aj_PzDZpy5E/view?usp=sharing)
-
-- ⚡ Fun fact **I think I am having more curiosity to learn more and more about new technologies, and implementing those in real time.**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/ghulam mujtaba adil" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ghulam mujtaba adil" height="30" width="40" /></a>
-<a href="https://kaggle.com/mujtabaadil" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="mujtabaadil" height="30" width="40" /></a>
-<a href="https://fb.com/ghulam mujtaba adil" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="ghulam mujtaba adil" height="30" width="40" /></a>
-</p>
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.blender.org/" target="_blank" rel="noreferrer"> <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://hadoop.apache.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/apache_hadoop/apache_hadoop-icon.svg" alt="hadoop" width="40" height="40"/> </a> <a href="https://hive.apache.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/apache_hive/apache_hive-icon.svg" alt="hive" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ghulam913-adil&show_icons=true&locale=en&layout=compact" alt="ghulam913-adil" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ghulam913-adil&show_icons=true&locale=en" alt="ghulam913-adil" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ghulam913-adil&" alt="ghulam913-adil" /></p>
