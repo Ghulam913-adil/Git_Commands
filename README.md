@@ -1,92 +1,126 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>GitCommands Repository</title>
-</head>
-<body>
-    <h1>GitCommands Repository 📚💻</h1>
-    <p>Welcome to the <strong>GitCommands</strong> repository! 🚀</p>
+Here's a detailed version of your GitHub profile README, including Git commands, their descriptions, and examples:
 
-    <h2>About This Repository 📝</h2>
-    <p>This repository is your one-stop shop for mastering Git commands. Whether you are a beginner looking to get started or an experienced developer seeking to brush up on your Git skills, this repository has something for everyone. Here, you'll find a comprehensive collection of essential Git commands, detailed explanations, and practical examples to help you effectively manage your code and collaborate with others.</p>
+```markdown
+<h1 align="center">Hi 👋, I'm Mujtaba Adil</h1>
+<h3 align="center">A passionate Data Analyst from Pakistan</h3>
 
-    <h2>Table of Contents 📑</h2>
-    <ol>
-        <li><a href="#introduction">Introduction</a></li>
-        <li><a href="#basic-commands">Basic Commands</a></li>
-        <li><a href="#branching-and-merging">Branching and Merging</a></li>
-        <li><a href="#remote-repositories">Remote Repositories</a></li>
-        <li><a href="#advanced-commands">Advanced Commands</a></li>
-        <li><a href="#best-practices">Best Practices</a></li>
-        <li><a href="#resources">Resources</a></li>
-        <li><a href="#contributing">Contributing</a></li>
-        <li><a href="#license">License</a></li>
-    </ol>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=ghulam913-adil&label=Profile%20views&color=0e75b6&style=flat" alt="ghulam913-adil" /> </p>
 
-    <h2 id="introduction">Introduction 🌟</h2>
-    <p>Git is a powerful and popular version control system used by developers worldwide to track changes in their code and collaborate with team members. This section introduces Git's key concepts and how to set up Git on your machine.</p>
+<h2 align="center">📚 Git Commands Repository</h2>
+<p align="left">
+This repository contains a comprehensive list of Git commands with descriptions and usage examples. Whether you're new to Git or an experienced user, these commands will help you manage your projects effectively.
+</p>
 
-    <h2 id="basic-commands">Basic Commands 🛠️</h2>
-    <ul>
-        <li><code>git init</code> - Initialize a new Git repository</li>
-        <li><code>git clone</code> - Clone an existing repository</li>
-        <li><code>git status</code> - Check the status of your files</li>
-        <li><code>git add</code> - Stage changes for commit</li>
-        <li><code>git commit</code> - Commit changes to the repository</li>
-        <li><code>git log</code> - View commit history</li>
-    </ul>
+### 🌟 Git Commands Cheat Sheet
 
-    <h2 id="branching-and-merging">Branching and Merging 🌿</h2>
-    <ul>
-        <li><code>git branch</code> - List, create, or delete branches</li>
-        <li><code>git checkout</code> - Switch branches</li>
-        <li><code>git merge</code> - Merge branches</li>
-        <li><code>git rebase</code> - Reapply commits on top of another base tip</li>
-    </ul>
+#### 🔧 Configuration
+- **Set user name and email:**
+  ```bash
+  git config --global user.name "Your Name"
+  git config --global user.email "your.email@example.com"
+  ```
+  This command sets your username and email address for Git. This information will be used for your commits.
 
-    <h2 id="remote-repositories">Remote Repositories 🌐</h2>
-    <ul>
-        <li><code>git remote</code> - Manage remote connections</li>
-        <li><code>git fetch</code> - Download objects and refs from another repository</li>
-        <li><code>git pull</code> - Fetch and merge changes from a remote repository</li>
-        <li><code>git push</code> - Upload changes to a remote repository</li>
-    </ul>
+#### 📂 Repository Management
+- **Initialize a new repository:**
+  ```bash
+  git init
+  ```
+  This command creates an empty Git repository or reinitializes an existing one.
 
-    <h2 id="advanced-commands">Advanced Commands ⚙️</h2>
-    <ul>
-        <li><code>git stash</code> - Stash changes for later use</li>
-        <li><code>git reset</code> - Reset current HEAD to a specified state</li>
-        <li><code>git revert</code> - Create a new commit that undoes a previous commit</li>
-        <li><code>git cherry-pick</code> - Apply changes from a specific commit</li>
-    </ul>
+- **Clone an existing repository:**
+  ```bash
+  git clone <repository_url>
+  ```
+  This command clones a repository into a new directory.
 
-    <h2 id="best-practices">Best Practices 🏆</h2>
-    <ul>
-        <li>Write meaningful commit messages</li>
-        <li>Use branches effectively</li>
-        <li>Keep your repository clean and organized</li>
-        <li>Regularly push changes to the remote repository</li>
-    </ul>
+#### 📋 Basic Commands
+- **Check status:**
+  ```bash
+  git status
+  ```
+  This command shows the working tree status, including changes that have been staged, changes that haven't been staged, and untracked files.
 
-    <h2 id="resources">Resources 📚</h2>
-    <ul>
-        <li><a href="https://git-scm.com/doc" target="_blank">Official Git Documentation</a></li>
-        <li><a href="https://git-scm.com/book/en/v2" target="_blank">Pro Git Book</a></li>
-        <li><a href="https://www.atlassian.com/git/tutorials" target="_blank">Atlassian Git Tutorials</a></li>
-    </ul>
+- **Add files to the staging area:**
+  ```bash
+  git add <file>
+  git add .
+  ```
+  This command adds file contents to the staging area. The first command stages a specific file, while the second command stages all changes in the current directory.
 
-    <h2 id="contributing">Contributing 🤝</h2>
-    <p>We welcome contributions! If you find a bug or have a suggestion, please open an issue or create a pull request. For major changes, please open an issue first to discuss what you would like to change.</p>
+- **Commit changes:**
+  ```bash
+  git commit -m "Commit message"
+  ```
+  This command records changes to the repository with a descriptive message.
 
-    <h2 id="license">License 📄</h2>
-    <p>This repository is licensed under the MIT License. See the <a href="LICENSE">LICENSE</a> file for more details.</p>
+#### 🌿 Branching and Merging
+- **Create a new branch:**
+  ```bash
+  git branch <branch_name>
+  ```
+  This command creates a new branch but does not switch to it.
 
-    <hr>
-    <p>Happy Coding! 💻✨</p>
+- **Switch to a branch:**
+  ```bash
+  git checkout <branch_name>
+  ```
+  This command switches to the specified branch.
 
-    <hr>
-    <p>If you have any questions or need further assistance, feel free to reach out. Enjoy using GitCommands! 😃</p>
-</body>
-</html>
+- **Create and switch to a new branch:**
+  ```bash
+  git checkout -b <branch_name>
+  ```
+  This command creates a new branch and switches to it.
+
+- **Merge a branch into the current branch:**
+  ```bash
+  git merge <branch_name>
+  ```
+  This command merges the specified branch into the current branch.
+
+#### 🌐 Remote Repositories
+- **Add a remote repository:**
+  ```bash
+  git remote add origin <repository_url>
+  ```
+  This command adds a remote repository and names it 'origin'.
+
+- **Push changes to remote repository:**
+  ```bash
+  git push origin <branch_name>
+  ```
+  This command pushes your changes to the specified branch on the remote repository.
+
+- **Pull changes from remote repository:**
+  ```bash
+  git pull origin <branch_name>
+  ```
+  This command fetches and integrates changes from the specified branch of the remote repository into the current branch.
+
+#### 🚀 Advanced Commands
+- **Rebase:**
+  ```bash
+  git rebase <branch_name>
+  ```
+  This command applies your changes on top of another branch, effectively rewriting the commit history.
+
+- **Stash changes:**
+  ```bash
+  git stash
+  ```
+  This command temporarily shelves (or stashes) changes you've made to your working directory, allowing you to work on something else and then come back and reapply them later.
+
+- **Apply stashed changes:**
+  ```bash
+  git stash apply
+  ```
+  This command applies the stashed changes to your working directory.
+
+<h3 align="left">📬 Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/ghulam-mujtaba-adil" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ghulam mujtaba adil" height="30" width="40" /></a>
+<a href="https://kaggle.com/mujtabaadil" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="mujtabaadil" height="30" width="40" /></a>
+<a href="https://fb.com/ghulam mujtaba adil" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="ghulam mujtaba adil" height="30" width="40" /></a>
+</p>
+```
