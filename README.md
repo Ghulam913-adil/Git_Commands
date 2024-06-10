@@ -1,25 +1,21 @@
-Here's a detailed version of your GitHub profile README, including Git commands, their descriptions, and examples:
-
-```markdown
 <h1 align="center">Hi 👋, I'm Mujtaba Adil</h1>
 <h3 align="center">A passionate Data Analyst from Pakistan</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ghulam913-adil&label=Profile%20views&color=0e75b6&style=flat" alt="ghulam913-adil" /> </p>
 
-<h2 align="center">📚 Git Commands Repository</h2>
+<h2 align="center">Git Commands Repository</h2>
 <p align="left">
 This repository contains a comprehensive list of Git commands with descriptions and usage examples. Whether you're new to Git or an experienced user, these commands will help you manage your projects effectively.
 </p>
 
-### 🌟 Git Commands Cheat Sheet
+### Git Commands Cheat Sheet
 
-#### 🔧 Configuration
+#### Configuration
 - **Set user name and email:**
   ```bash
   git config --global user.name "Your Name"
   git config --global user.email "your.email@example.com"
-  ```
-  This command sets your username and email address for Git. This information will be used for your commits.
+
 
 #### 📂 Repository Management
 - **Initialize a new repository:**
